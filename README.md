@@ -1,14 +1,14 @@
 <h1 align="center">Olá 👋, sou Iara Varjão</h1>
 
 Seja bem vindo(a) ao meu GitHub!
+🌱 **Analise de dados, MySQL, Power BI e Python**
+
 
 - 🔭 Atualmente trabalhando em um projeto pessoal: **Perfil de saúde da população**
 
-- 🌱 Em constante estudo: **Analise de dados, MySQL, Power BI e Python**
-
 - 📫 Como me achar: **iara_varjao@yahoo.com.br**
 
-- ⚡ Fun fact: **Formada em nutrição com 10 anos de atuação na área**
+- ⚡ Fun fact: **Formada em Nutrição, com 10 anos de atuação na área**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
