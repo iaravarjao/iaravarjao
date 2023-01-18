@@ -4,11 +4,13 @@ Seja bem vindo(a) ao meu GitHub!
 
 Aqui estão meus projetos pessoais e trabalhos desenvolvidos em cursos e imersões.
 
-🌱 **Análise de dados, MySQL, Power BI e Python**
+🌱 **Análise de dados, MySQL, Power BI e Excel**
+
+:woman_technologist: **Iniciante em programação > Python, HTML, CSS, JS**
 
 - 📫 Como me achar: **iara_varjao@yahoo.com.br**
 
-- ⚡ Fun fact: **Formada em Nutrição, com 10 anos de atuação na área**
+- ⚡ Fun fact: **Formada em Nutrição, com 13 anos de atuação na área**
 
 
 <h3 align="left">Onde me achar:</h3>
