@@ -1,14 +1,14 @@
 <h2 align="left">Seja bem vindo/a ao meu GitHub!</h2>
 
-Aqui estão meus projetos pessoais e trabalhos desenvolvidos em cursos e imersões.
+Aqui estão projetos pessoais desenvolvidos em cursos e imersões.
+
+:woman_technologist: **Estudando programação > Back-end Java, (HTML, CSS, JS), Python**
 
 :bar_chart: **Análise de dados, MySQL, Power BI e Excel**
 
-:woman_technologist: **Iniciante em programação > Java, Python, (HTML, CSS, JS)**
+:arrows_counterclockwise: **Formada em Nutrição, em transição de carreira**
 
 :mailbox_with_mail: **Como me achar: iara_varjao@yahoo.com.br**
-
-:arrows_counterclockwise: **Formada em Nutrição,em transição de carreira**
 
 <p>
 <h3 align="left">Onde me achar:</h3>
