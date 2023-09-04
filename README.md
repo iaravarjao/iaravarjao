@@ -2,7 +2,7 @@
 
 Aqui estão projetos pessoais desenvolvidos em cursos e imersões.
 
-:woman_technologist: **Estudando programação > Back-end Java, (HTML, CSS, JS), Python**
+:woman_technologist: **Estudante de Analise e desenvolvimento de sistemas > Back-end Java, (HTML, CSS, JS), Python**
 
 :bar_chart: **Análise de dados, MySQL, Power BI e Excel**
 
